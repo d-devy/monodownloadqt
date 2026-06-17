@@ -7,6 +7,8 @@ Default port: `http://localhost:3000`
 ## Run
 
 ```bash
+bun install
+
 bun run src/index.ts
 ```
 
