@@ -1,0 +1,9 @@
+[
+    {
+        "access_token": "xxx.xxxxxx.xxx",
+        "refresh_token": "xxx.xxx.xxxxxx",
+        "userID": 123456789,
+        "client_ID": "client_id",
+        "client_secret": "client_secret or unique_device_id"
+    }
+]
